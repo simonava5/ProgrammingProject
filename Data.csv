@@ -1,0 +1,863 @@
+"Number of Casualties by Road User Type, Sex, Age Group, statistical"
+"indicator and Year"
+
+" "," "," "," ","2005","2006","2007","2008","2009","2010","2011","2012","2013","2014","2016"
+"All road users"
+" ","Male"
+" "," ","0 - 5 years"
+" "," "," ","Killed Casualties (Number)",3,5,2,3,5,3,2,0,1,3,1
+" "," "," ","Injured Cassualties (Number)",93,89,101,154,124,121,98,126,88,121,97
+" "," "," ","All Killed and Injured Casualties (Number)",96,94,103,157,129,124,100,126,89,124,98
+" "," ","6 - 9 years"
+" "," "," ","Killed Casualties (Number)",1,3,0,3,1,2,2,1,0,3,0
+" "," "," ","Injured Cassualties (Number)",96,80,101,131,127,107,111,109,91,114,84
+" "," "," ","All Killed and Injured Casualties (Number)",97,83,101,134,128,109,113,110,91,117,87
+" "," ","10 - 14 years"
+" "," "," ","Killed Casualties (Number)",4,1,5,6,2,0,1,0,1,2,7
+" "," "," ","Injured Cassualties (Number)",135,120,132,175,178,159,149,156,149,186,152
+" "," "," ","All Killed and Injured Casualties (Number)",139,121,137,181,180,159,150,156,150,188,163
+" "," ","15 - 17 years"
+" "," "," ","Killed Casualties (Number)",15,13,12,16,9,4,6,7,1,5,2
+" "," "," ","Injured Cassualties (Number)",243,229,212,261,253,222,179,204,167,168,138
+" "," "," ","All Killed and Injured Casualties (Number)",258,242,224,277,262,226,185,211,168,173,148
+" "," ","18 - 20 years"
+" "," "," ","Killed Casualties (Number)",46,29,28,25,23,17,16,10,12,10,14
+" "," "," ","Injured Cassualties (Number)",594,532,487,553,606,483,408,418,332,323,283
+" "," "," ","All Killed and Injured Casualties (Number)",640,561,515,578,629,500,424,428,344,333,308
+" "," ","21 - 24 years"
+" "," "," ","Killed Casualties (Number)",43,46,33,32,30,29,14,18,17,13,13
+" "," "," ","Injured Cassualties (Number)",641,604,530,547,637,487,459,525,419,406,430
+" "," "," ","All Killed and Injured Casualties (Number)",684,650,563,579,667,516,473,543,436,419,436
+" "," ","25 - 34 years"
+" "," "," ","Killed Casualties (Number)",58,64,52,33,41,41,35,23,34,29,25
+" "," "," ","Injured Cassualties (Number)",1105,1073,914,1117,1207,1067,951,938,825,952,931
+" "," "," ","All Killed and Injured Casualties (Number)",1163,1137,966,1150,1248,1108,986,961,859,981,940
+" "," ","35 - 44 years"
+" "," "," ","Killed Casualties (Number)",38,30,36,32,30,21,22,12,19,21,24
+" "," "," ","Injured Cassualties (Number)",667,668,620,698,812,693,606,779,663,802,878
+" "," "," ","All Killed and Injured Casualties (Number)",705,698,656,730,842,714,628,791,682,823,865
+" "," ","45 - 54 years"
+" "," "," ","Killed Casualties (Number)",21,17,22,13,10,12,6,11,13,13,14
+" "," "," ","Injured Cassualties (Number)",429,421,408,428,508,450,422,514,465,521,598
+" "," "," ","All Killed and Injured Casualties (Number)",450,438,430,441,518,462,428,525,478,534,606
+" "," ","55 - 64 years"
+" "," "," ","Killed Casualties (Number)",22,23,21,8,17,10,8,9,13,8,10
+" "," "," ","Injured Cassualties (Number)",285,269,271,308,321,301,270,311,292,305,375
+" "," "," ","All Killed and Injured Casualties (Number)",307,292,292,316,338,311,278,320,305,313,395
+" "," ","65 years and over"
+" "," "," ","Killed Casualties (Number)",34,31,34,27,14,22,18,17,31,26,28
+" "," "," ","Injured Cassualties (Number)",271,246,270,290,304,278,270,299,285,346,378
+" "," "," ","All Killed and Injured Casualties (Number)",305,277,304,317,318,300,288,316,316,372,398
+" "," ","Age unknown"
+" "," "," ","Killed Casualties (Number)",1,0,5,1,0,0,0,0,0,0,0
+" "," "," ","Injured Cassualties (Number)",129,135,78,574,165,42,46,46,40,14,0
+" "," "," ","All Killed and Injured Casualties (Number)",130,135,83,575,165,42,46,46,40,14,3
+" "," ","All ages"
+" "," "," ","Killed Casualties (Number)",286,262,250,199,182,161,130,108,142,133,138
+" "," "," ","Injured Cassualties (Number)",4688,4466,4124,5236,5242,4410,3969,4425,3816,4258,4344
+" "," "," ","All Killed and Injured Casualties (Number)",4974,4728,4374,5435,5424,4571,4099,4533,3958,4391,4447
+" ","Female"
+" "," ","0 - 5 years"
+" "," "," ","Killed Casualties (Number)",0,4,6,1,2,0,0,2,3,2,1
+" "," "," ","Injured Cassualties (Number)",72,73,96,124,124,109,93,88,79,84,77
+" "," "," ","All Killed and Injured Casualties (Number)",72,77,102,125,126,109,93,90,82,86,78
+" "," ","6 - 9 years"
+" "," "," ","Killed Casualties (Number)",0,1,1,2,0,0,0,0,1,1,0
+" "," "," ","Injured Cassualties (Number)",62,77,65,89,103,82,74,70,70,66,74
+" "," "," ","All Killed and Injured Casualties (Number)",62,78,66,91,103,82,74,70,71,67,74
+" "," ","10 - 14 years"
+" "," "," ","Killed Casualties (Number)",1,2,2,4,2,1,2,0,0,2,0
+" "," "," ","Injured Cassualties (Number)",102,101,103,117,146,120,98,126,99,121,94
+" "," "," ","All Killed and Injured Casualties (Number)",103,103,105,121,148,121,100,126,99,123,94
+" "," ","15 - 17 years"
+" "," "," ","Killed Casualties (Number)",11,5,2,4,0,3,4,0,3,1,1
+" "," "," ","Injured Cassualties (Number)",154,177,168,190,171,145,109,145,106,131,114
+" "," "," ","All Killed and Injured Casualties (Number)",165,182,170,194,171,148,113,145,109,132,115
+" "," ","18 - 20 years"
+" "," "," ","Killed Casualties (Number)",9,12,8,9,8,4,6,2,1,2,4
+" "," "," ","Injured Cassualties (Number)",319,338,349,362,376,339,271,269,216,228,199
+" "," "," ","All Killed and Injured Casualties (Number)",328,350,357,371,384,343,277,271,217,230,203
+" "," ","21 - 24 years"
+" "," "," ","Killed Casualties (Number)",11,8,6,9,3,5,3,5,6,3,1
+" "," "," ","Injured Cassualties (Number)",373,354,361,448,453,350,351,286,285,277,307
+" "," "," ","All Killed and Injured Casualties (Number)",384,362,367,457,456,355,354,291,291,280,308
+" "," ","25 - 34 years"
+" "," "," ","Killed Casualties (Number)",19,15,8,11,11,7,6,12,5,4,11
+" "," "," ","Injured Cassualties (Number)",712,700,696,807,872,789,669,714,598,661,685
+" "," "," ","All Killed and Injured Casualties (Number)",731,715,704,818,883,796,675,726,603,665,696
+" "," ","35 - 44 years"
+" "," "," ","Killed Casualties (Number)",7,8,9,4,4,5,8,4,4,10,7
+" "," "," ","Injured Cassualties (Number)",432,461,435,473,594,538,434,550,460,564,631
+" "," "," ","All Killed and Injured Casualties (Number)",439,469,444,477,598,543,442,554,464,574,638
+" "," ","45 - 54 years"
+" "," "," ","Killed Casualties (Number)",10,5,6,7,9,6,3,8,5,7,2
+" "," "," ","Injured Cassualties (Number)",338,367,325,387,437,385,324,406,373,408,437
+" "," "," ","All Killed and Injured Casualties (Number)",348,372,331,394,446,391,327,414,378,415,439
+" "," ","55 - 64 years"
+" "," "," ","Killed Casualties (Number)",11,5,13,5,5,7,5,2,3,9,4
+" "," "," ","Injured Cassualties (Number)",219,240,256,257,289,291,231,285,242,284,295
+" "," "," ","All Killed and Injured Casualties (Number)",230,245,269,262,294,298,236,287,245,293,299
+" "," ","65 years and over"
+" "," "," ","Killed Casualties (Number)",22,32,24,19,12,8,19,19,15,17,17
+" "," "," ","Injured Cassualties (Number)",248,269,246,298,313,266,260,288,262,313,325
+" "," "," ","All Killed and Injured Casualties (Number)",270,301,270,317,325,274,279,307,277,330,342
+" "," ","Age unknown"
+" "," "," ","Killed Casualties (Number)",1,0,0,0,0,0,0,0,0,0,0
+" "," "," ","Injured Cassualties (Number)",100,111,57,356,84,26,22,23,13,9,0
+" "," "," ","All Killed and Injured Casualties (Number)",101,111,57,356,84,26,22,23,13,9,0
+" "," ","All ages"
+" "," "," ","Killed Casualties (Number)",102,97,85,75,56,46,56,54,46,58,48
+" "," "," ","Injured Cassualties (Number)",3131,3268,3157,3908,3962,3440,2936,3250,2803,3146,3238
+" "," "," ","All Killed and Injured Casualties (Number)",3233,3365,3242,3983,4018,3486,2992,3304,2849,3204,3286
+"Pedestrians"
+" ","Male"
+" "," ","0 - 5 years"
+" "," "," ","Killed Casualties (Number)",3,1,0,1,3,3,0,0,0,0,0
+" "," "," ","Injured Cassualties (Number)",36,32,28,54,35,41,39,40,29,47,28
+" "," "," ","All Killed and Injured Casualties (Number)",39,33,28,55,38,44,39,40,29,47,28
+" "," ","6 - 9 years"
+" "," "," ","Killed Casualties (Number)",1,2,0,2,1,0,1,1,0,2,0
+" "," "," ","Injured Cassualties (Number)",41,44,50,50,48,48,45,41,43,38,37
+" "," "," ","All Killed and Injured Casualties (Number)",42,46,50,52,49,48,46,42,43,40,37
+" "," ","10 - 14 years"
+" "," "," ","Killed Casualties (Number)",3,0,3,3,0,0,1,0,0,2,2
+" "," "," ","Injured Cassualties (Number)",49,44,41,70,58,53,51,54,49,58,49
+" "," "," ","All Killed and Injured Casualties (Number)",52,44,44,73,58,53,52,54,49,60,51
+" "," ","15 - 17 years"
+" "," "," ","Killed Casualties (Number)",4,1,2,0,0,0,0,1,0,0,1
+" "," "," ","Injured Cassualties (Number)",33,27,17,28,26,26,20,37,29,30,15
+" "," "," ","All Killed and Injured Casualties (Number)",37,28,19,28,26,26,20,38,29,30,16
+" "," ","18 - 20 years"
+" "," "," ","Killed Casualties (Number)",5,3,3,6,2,0,3,0,1,0,0
+" "," "," ","Injured Cassualties (Number)",24,27,35,42,40,32,42,40,38,30,27
+" "," "," ","All Killed and Injured Casualties (Number)",29,30,38,48,42,32,45,40,39,30,27
+" "," ","21 - 24 years"
+" "," "," ","Killed Casualties (Number)",5,4,5,0,2,5,2,0,0,0,1
+" "," "," ","Injured Cassualties (Number)",37,46,42,40,57,39,43,56,28,35,31
+" "," "," ","All Killed and Injured Casualties (Number)",42,50,47,40,59,44,45,56,28,35,32
+" "," ","25 - 34 years"
+" "," "," ","Killed Casualties (Number)",4,6,3,2,3,3,7,3,2,4,4
+" "," "," ","Injured Cassualties (Number)",76,63,69,95,82,84,99,79,82,93,77
+" "," "," ","All Killed and Injured Casualties (Number)",80,69,72,97,85,87,106,82,84,97,81
+" "," ","35 - 44 years"
+" "," "," ","Killed Casualties (Number)",2,6,5,4,2,6,5,0,3,3,5
+" "," "," ","Injured Cassualties (Number)",62,56,54,67,55,55,39,69,55,73,83
+" "," "," ","All Killed and Injured Casualties (Number)",64,62,59,71,57,61,44,69,58,76,88
+" "," ","45 - 54 years"
+" "," "," ","Killed Casualties (Number)",4,3,7,5,3,6,3,3,4,1,3
+" "," "," ","Injured Cassualties (Number)",33,45,36,46,66,40,50,46,36,62,54
+" "," "," ","All Killed and Injured Casualties (Number)",37,48,43,51,69,46,53,49,40,63,57
+" "," ","55 - 64 years"
+" "," "," ","Killed Casualties (Number)",7,8,7,2,7,3,2,3,3,2,4
+" "," "," ","Injured Cassualties (Number)",42,36,36,42,48,44,51,50,40,39,61
+" "," "," ","All Killed and Injured Casualties (Number)",49,44,43,44,55,47,53,53,43,41,65
+" "," ","65 years and over"
+" "," "," ","Killed Casualties (Number)",12,14,16,6,3,6,9,9,5,7,5
+" "," "," ","Injured Cassualties (Number)",53,46,61,59,64,40,48,54,58,86,78
+" "," "," ","All Killed and Injured Casualties (Number)",65,60,77,65,67,46,57,63,63,93,83
+" "," ","Age unknown"
+" "," "," ","Killed Casualties (Number)",1,0,1,0,0,0,0,0,0,0,0
+" "," "," ","Injured Cassualties (Number)",26,26,18,19,13,10,7,6,12,4,0
+" "," "," ","All Killed and Injured Casualties (Number)",27,26,19,19,13,10,7,6,12,4,0
+" "," ","All ages"
+" "," "," ","Killed Casualties (Number)",51,48,52,31,26,32,33,20,18,21,25
+" "," "," ","Injured Cassualties (Number)",512,492,487,612,592,512,534,572,499,595,540
+" "," "," ","All Killed and Injured Casualties (Number)",563,540,539,643,618,544,567,592,517,616,565
+" ","Female"
+" "," ","0 - 5 years"
+" "," "," ","Killed Casualties (Number)",0,2,1,0,1,0,0,2,1,2,0
+" "," "," ","Injured Cassualties (Number)",17,16,21,30,23,29,24,29,21,20,20
+" "," "," ","All Killed and Injured Casualties (Number)",17,18,22,30,24,29,24,31,22,22,20
+" "," ","6 - 9 years"
+" "," "," ","Killed Casualties (Number)",0,0,0,1,0,0,0,0,0,0,0
+" "," "," ","Injured Cassualties (Number)",19,27,22,31,28,29,23,20,22,14,27
+" "," "," ","All Killed and Injured Casualties (Number)",19,27,22,32,28,29,23,20,22,14,27
+" "," ","10 - 14 years"
+" "," "," ","Killed Casualties (Number)",1,1,0,1,2,1,1,0,0,0,0
+" "," "," ","Injured Cassualties (Number)",47,34,29,39,43,39,43,52,26,43,39
+" "," "," ","All Killed and Injured Casualties (Number)",48,35,29,40,45,40,44,52,26,43,39
+" "," ","15 - 17 years"
+" "," "," ","Killed Casualties (Number)",5,2,0,1,0,0,1,0,2,1,0
+" "," "," ","Injured Cassualties (Number)",35,26,29,30,43,31,23,24,25,28,25
+" "," "," ","All Killed and Injured Casualties (Number)",40,28,29,31,43,31,24,24,27,29,25
+" "," ","18 - 20 years"
+" "," "," ","Killed Casualties (Number)",0,1,3,2,0,0,0,0,0,1,0
+" "," "," ","Injured Cassualties (Number)",24,31,22,25,34,29,22,29,27,34,34
+" "," "," ","All Killed and Injured Casualties (Number)",24,32,25,27,34,29,22,29,27,35,34
+" "," ","21 - 24 years"
+" "," "," ","Killed Casualties (Number)",0,0,0,1,0,1,0,0,0,1,0
+" "," "," ","Injured Cassualties (Number)",30,26,34,31,27,25,17,22,28,38,35
+" "," "," ","All Killed and Injured Casualties (Number)",30,26,34,32,27,26,17,22,28,39,35
+" "," ","25 - 34 years"
+" "," "," ","Killed Casualties (Number)",2,0,0,2,2,0,0,0,0,1,0
+" "," "," ","Injured Cassualties (Number)",58,45,50,56,72,46,53,49,47,57,64
+" "," "," ","All Killed and Injured Casualties (Number)",60,45,50,58,74,46,53,49,47,58,64
+" "," ","35 - 44 years"
+" "," "," ","Killed Casualties (Number)",1,1,2,0,1,1,4,0,1,3,1
+" "," "," ","Injured Cassualties (Number)",34,28,32,46,35,35,28,41,36,33,51
+" "," "," ","All Killed and Injured Casualties (Number)",35,29,34,46,36,36,32,41,37,36,52
+" "," ","45 - 54 years"
+" "," "," ","Killed Casualties (Number)",0,0,2,1,1,1,1,1,0,0,1
+" "," "," ","Injured Cassualties (Number)",30,29,29,39,34,29,35,44,42,43,54
+" "," "," ","All Killed and Injured Casualties (Number)",30,29,31,40,35,30,36,45,42,43,55
+" "," ","55 - 64 years"
+" "," "," ","Killed Casualties (Number)",4,0,4,2,0,4,1,1,2,3,0
+" "," "," ","Injured Cassualties (Number)",23,32,29,42,33,44,36,39,33,51,51
+" "," "," ","All Killed and Injured Casualties (Number)",27,32,33,44,33,48,37,40,35,54,51
+" "," ","65 years and over"
+" "," "," ","Killed Casualties (Number)",8,15,16,6,7,4,6,5,7,9,8
+" "," "," ","Injured Cassualties (Number)",60,70,53,86,73,52,73,69,71,81,81
+" "," "," ","All Killed and Injured Casualties (Number)",68,85,69,92,80,56,79,74,78,90,89
+" "," ","Age unknown"
+" "," "," ","Killed Casualties (Number)",0,0,0,0,0,0,0,0,0,0,0
+" "," "," ","Injured Cassualties (Number)",21,20,12,25,16,6,6,6,3,2,0
+" "," "," ","All Killed and Injured Casualties (Number)",21,20,12,25,16,6,6,6,3,2,0
+" "," ","All ages"
+" "," "," ","Killed Casualties (Number)",21,22,28,17,14,12,14,9,13,21,10
+" "," "," ","Injured Cassualties (Number)",398,384,362,480,461,394,383,424,381,444,481
+" "," "," ","All Killed and Injured Casualties (Number)",419,406,390,497,475,406,397,433,394,465,491
+"Pedal cyclists"
+" ","Male"
+" "," ","0 - 5 years"
+" "," "," ","Killed Casualties (Number)",0,0,0,0,0,0,1,0,0,0,0
+" "," "," ","Injured Cassualties (Number)",0,0,2,0,2,5,3,1,1,1,3
+" "," "," ","All Killed and Injured Casualties (Number)",0,0,2,0,2,5,4,1,1,1,3
+" "," ","6 - 9 years"
+" "," "," ","Killed Casualties (Number)",0,0,0,0,0,0,1,0,0,0,0
+" "," "," ","Injured Cassualties (Number)",8,2,6,9,4,9,18,12,7,13,10
+" "," "," ","All Killed and Injured Casualties (Number)",8,2,6,9,4,9,19,12,7,13,10
+" "," ","10 - 14 years"
+" "," "," ","Killed Casualties (Number)",0,0,2,1,2,0,0,0,0,0,2
+" "," "," ","Injured Cassualties (Number)",12,18,26,19,29,28,25,31,31,39,37
+" "," "," ","All Killed and Injured Casualties (Number)",12,18,28,20,31,28,25,31,31,39,39
+" "," ","15 - 17 years"
+" "," "," ","Killed Casualties (Number)",0,0,0,3,2,0,0,0,0,0,0
+" "," "," ","Injured Cassualties (Number)",13,4,12,16,24,14,14,26,25,34,27
+" "," "," ","All Killed and Injured Casualties (Number)",13,4,12,19,26,14,14,26,25,34,27
+" "," ","18 - 20 years"
+" "," "," ","Killed Casualties (Number)",0,0,2,0,0,0,1,0,0,0,1
+" "," "," ","Injured Cassualties (Number)",9,7,5,12,11,6,13,22,23,34,25
+" "," "," ","All Killed and Injured Casualties (Number)",9,7,7,12,11,6,14,22,23,34,26
+" "," ","21 - 24 years"
+" "," "," ","Killed Casualties (Number)",0,1,0,0,0,0,2,0,0,0,0
+" "," "," ","Injured Cassualties (Number)",11,8,13,18,20,14,22,31,37,49,69
+" "," "," ","All Killed and Injured Casualties (Number)",11,9,13,18,20,14,24,31,37,49,69
+" "," ","25 - 34 years"
+" "," "," ","Killed Casualties (Number)",3,1,2,0,1,0,1,0,0,1,0
+" "," "," ","Injured Cassualties (Number)",35,38,41,68,61,68,61,101,101,152,164
+" "," "," ","All Killed and Injured Casualties (Number)",38,39,43,68,62,68,62,101,101,153,164
+" "," ","35 - 44 years"
+" "," "," ","Killed Casualties (Number)",1,1,1,1,0,0,2,2,1,3,1
+" "," "," ","Injured Cassualties (Number)",20,24,34,36,53,54,50,105,116,143,156
+" "," "," ","All Killed and Injured Casualties (Number)",21,25,35,37,53,54,52,107,117,146,157
+" "," ","45 - 54 years"
+" "," "," ","Killed Casualties (Number)",0,2,0,2,1,1,0,1,0,3,0
+" "," "," ","Injured Cassualties (Number)",10,13,27,22,35,42,44,72,70,96,114
+" "," "," ","All Killed and Injured Casualties (Number)",10,15,27,24,36,43,44,73,70,99,114
+" "," ","55 - 64 years"
+" "," "," ","Killed Casualties (Number)",1,2,3,2,0,0,1,1,0,0,1
+" "," "," ","Injured Cassualties (Number)",11,8,6,18,23,26,21,32,37,46,59
+" "," "," ","All Killed and Injured Casualties (Number)",12,10,9,20,23,26,22,33,37,46,60
+" "," ","65 years and over"
+" "," "," ","Killed Casualties (Number)",2,0,0,2,1,3,0,0,3,3,3
+" "," "," ","Injured Cassualties (Number)",7,9,8,9,9,14,13,12,12,29,29
+" "," "," ","All Killed and Injured Casualties (Number)",9,9,8,11,10,17,13,12,15,32,32
+" "," ","Age unknown"
+" "," "," ","Killed Casualties (Number)",0,0,0,0,0,0,0,0,0,0,0
+" "," "," ","Injured Cassualties (Number)",9,16,7,11,6,7,5,10,8,2,0
+" "," "," ","All Killed and Injured Casualties (Number)",9,16,7,11,6,7,5,10,8,2,0
+" "," ","All ages"
+" "," "," ","Killed Casualties (Number)",7,7,10,11,7,4,9,4,4,10,8
+" "," "," ","Injured Cassualties (Number)",145,147,187,238,277,287,289,455,468,638,693
+" "," "," ","All Killed and Injured Casualties (Number)",152,154,197,249,284,291,298,459,472,648,701
+" ","Female"
+" "," ","0 - 5 years"
+" "," "," ","Killed Casualties (Number)",0,0,0,0,0,0,0,0,0,0,0
+" "," "," ","Injured Cassualties (Number)",1,0,1,0,1,3,0,1,1,2,0
+" "," "," ","All Killed and Injured Casualties (Number)",1,0,1,0,1,3,0,1,1,2,0
+" "," ","6 - 9 years"
+" "," "," ","Killed Casualties (Number)",0,0,0,0,0,0,0,0,0,0,0
+" "," "," ","Injured Cassualties (Number)",3,2,4,0,5,1,2,2,6,1,2
+" "," "," ","All Killed and Injured Casualties (Number)",3,2,4,0,5,1,2,2,6,1,2
+" "," ","10 - 14 years"
+" "," "," ","Killed Casualties (Number)",0,0,1,0,0,0,0,0,0,0,0
+" "," "," ","Injured Cassualties (Number)",3,2,4,2,5,7,2,6,11,7,8
+" "," "," ","All Killed and Injured Casualties (Number)",3,2,5,2,5,7,2,6,11,7,8
+" "," ","15 - 17 years"
+" "," "," ","Killed Casualties (Number)",0,0,0,0,0,0,0,0,0,0,0
+" "," "," ","Injured Cassualties (Number)",2,1,2,0,2,3,2,4,5,4,3
+" "," "," ","All Killed and Injured Casualties (Number)",2,1,2,0,2,3,2,4,5,4,3
+" "," ","18 - 20 years"
+" "," "," ","Killed Casualties (Number)",0,0,0,0,0,0,0,0,0,0,0
+" "," "," ","Injured Cassualties (Number)",0,1,1,3,1,5,6,9,5,6,14
+" "," "," ","All Killed and Injured Casualties (Number)",0,1,1,3,1,5,6,9,5,6,14
+" "," ","21 - 24 years"
+" "," "," ","Killed Casualties (Number)",0,0,0,0,0,0,0,0,0,0,0
+" "," "," ","Injured Cassualties (Number)",5,4,5,9,8,3,11,9,10,10,21
+" "," "," ","All Killed and Injured Casualties (Number)",5,4,5,9,8,3,11,9,10,10,21
+" "," ","25 - 34 years"
+" "," "," ","Killed Casualties (Number)",0,2,0,0,0,0,0,0,1,1,1
+" "," "," ","Injured Cassualties (Number)",8,12,20,31,30,39,29,56,45,68,70
+" "," "," ","All Killed and Injured Casualties (Number)",8,14,20,31,30,39,29,56,46,69,71
+" "," ","35 - 44 years"
+" "," "," ","Killed Casualties (Number)",0,0,0,0,0,0,0,1,0,1,1
+" "," "," ","Injured Cassualties (Number)",9,5,3,11,14,18,14,34,23,35,68
+" "," "," ","All Killed and Injured Casualties (Number)",9,5,3,11,14,18,14,35,23,36,69
+" "," ","45 - 54 years"
+" "," "," ","Killed Casualties (Number)",0,0,2,2,0,0,0,2,0,0,0
+" "," "," ","Injured Cassualties (Number)",6,7,7,8,3,9,15,23,23,36,34
+" "," "," ","All Killed and Injured Casualties (Number)",6,7,9,10,3,9,15,25,23,36,34
+" "," ","55 - 64 years"
+" "," "," ","Killed Casualties (Number)",1,0,1,0,0,1,0,0,0,1,0
+" "," "," ","Injured Cassualties (Number)",2,2,5,4,7,6,6,10,12,17,18
+" "," "," ","All Killed and Injured Casualties (Number)",3,2,6,4,7,7,6,10,12,18,18
+" "," ","65 years and over"
+" "," "," ","Killed Casualties (Number)",1,0,0,0,0,0,0,1,0,0,0
+" "," "," ","Injured Cassualties (Number)",1,0,5,5,1,0,1,4,1,5,15
+" "," "," ","All Killed and Injured Casualties (Number)",2,0,5,5,1,0,1,5,1,5,15
+" "," ","Age unknown"
+" "," "," ","Killed Casualties (Number)",0,0,0,0,0,0,0,0,0,0,0
+" "," "," ","Injured Cassualties (Number)",3,6,2,8,0,0,1,0,2,0,0
+" "," "," ","All Killed and Injured Casualties (Number)",3,6,2,8,0,0,1,0,2,0,0
+" "," ","All ages"
+" "," "," ","Killed Casualties (Number)",2,2,4,2,0,1,0,4,1,3,2
+" "," "," ","Injured Cassualties (Number)",43,42,59,81,77,94,89,158,144,191,253
+" "," "," ","All Killed and Injured Casualties (Number)",45,44,63,83,77,95,89,162,145,194,255
+"Motor cyclists"
+" ","Male"
+" "," ","0 - 5 years"
+" "," "," ","Killed Casualties (Number)",0,0,0,0,0,0,0,0,0,0,0
+" "," "," ","Injured Cassualties (Number)",0,0,0,0,0,0,0,0,0,0,0
+" "," "," ","All Killed and Injured Casualties (Number)",0,0,0,0,0,0,0,0,0,0,0
+" "," ","6 - 9 years"
+" "," "," ","Killed Casualties (Number)",0,0,0,0,0,0,0,0,0,0,0
+" "," "," ","Injured Cassualties (Number)",1,0,0,1,1,0,0,0,0,0,0
+" "," "," ","All Killed and Injured Casualties (Number)",1,0,0,1,1,0,0,0,0,0,0
+" "," ","10 - 14 years"
+" "," "," ","Killed Casualties (Number)",0,0,0,0,0,0,0,0,0,0,0
+" "," "," ","Injured Cassualties (Number)",1,3,1,2,2,3,2,1,2,2,2
+" "," "," ","All Killed and Injured Casualties (Number)",1,3,1,2,2,3,2,1,2,2,2
+" "," ","15 - 17 years"
+" "," "," ","Killed Casualties (Number)",1,1,0,1,0,0,0,0,0,0,0
+" "," "," ","Injured Cassualties (Number)",37,28,16,16,18,16,6,8,2,2,11
+" "," "," ","All Killed and Injured Casualties (Number)",38,29,16,17,18,16,6,8,2,2,11
+" "," ","18 - 20 years"
+" "," "," ","Killed Casualties (Number)",4,2,3,2,1,2,0,2,1,1,1
+" "," "," ","Injured Cassualties (Number)",39,24,21,20,19,22,17,9,7,11,12
+" "," "," ","All Killed and Injured Casualties (Number)",43,26,24,22,20,24,17,11,8,12,13
+" "," ","21 - 24 years"
+" "," "," ","Killed Casualties (Number)",10,3,4,7,4,4,0,0,0,1,2
+" "," "," ","Injured Cassualties (Number)",61,40,36,49,48,47,28,29,25,12,28
+" "," "," ","All Killed and Injured Casualties (Number)",71,43,40,56,52,51,28,29,25,13,30
+" "," ","25 - 34 years"
+" "," "," ","Killed Casualties (Number)",18,10,11,9,9,6,8,8,13,8,6
+" "," "," ","Injured Cassualties (Number)",147,155,116,113,127,124,87,77,79,78,99
+" "," "," ","All Killed and Injured Casualties (Number)",165,165,127,122,136,130,95,85,92,86,105
+" "," ","35 - 44 years"
+" "," "," ","Killed Casualties (Number)",12,6,9,8,8,4,6,3,4,7,4
+" "," "," ","Injured Cassualties (Number)",92,102,72,88,92,63,62,79,59,71,81
+" "," "," ","All Killed and Injured Casualties (Number)",104,108,81,96,100,67,68,82,63,78,85
+" "," ","45 - 54 years"
+" "," "," ","Killed Casualties (Number)",6,2,3,0,0,0,1,2,4,2,3
+" "," "," ","Injured Cassualties (Number)",41,35,44,48,49,42,43,63,48,51,58
+" "," "," ","All Killed and Injured Casualties (Number)",47,37,47,48,49,42,44,65,52,53,61
+" "," ","55 - 64 years"
+" "," "," ","Killed Casualties (Number)",2,2,1,1,2,0,1,1,1,2,2
+" "," "," ","Injured Cassualties (Number)",6,13,11,10,13,20,23,23,16,28,28
+" "," "," ","All Killed and Injured Casualties (Number)",8,15,12,11,15,20,24,24,17,30,30
+" "," ","65 years and over"
+" "," "," ","Killed Casualties (Number)",0,0,1,0,1,0,1,0,1,2,2
+" "," "," ","Injured Cassualties (Number)",6,4,4,5,5,4,7,5,4,8,14
+" "," "," ","All Killed and Injured Casualties (Number)",6,4,5,5,6,4,8,5,5,10,16
+" "," ","Age unknown"
+" "," "," ","Killed Casualties (Number)",0,0,1,0,0,0,0,0,0,0,0
+" "," "," ","Injured Cassualties (Number)",12,16,8,80,17,3,4,6,2,0,0
+" "," "," ","All Killed and Injured Casualties (Number)",12,16,9,80,17,3,4,6,2,0,0
+" "," ","All ages"
+" "," "," ","Killed Casualties (Number)",53,26,33,28,25,16,17,16,24,23,20
+" "," "," ","Injured Cassualties (Number)",443,420,329,432,391,344,279,300,244,263,333
+" "," "," ","All Killed and Injured Casualties (Number)",496,446,362,460,416,360,296,316,268,286,353
+" ","Female"
+" "," ","0 - 5 years"
+" "," "," ","Killed Casualties (Number)",0,0,0,0,0,0,0,0,0,0,0
+" "," "," ","Injured Cassualties (Number)",0,1,0,0,0,0,0,0,0,1,0
+" "," "," ","All Killed and Injured Casualties (Number)",0,1,0,0,0,0,0,0,0,1,0
+" "," ","6 - 9 years"
+" "," "," ","Killed Casualties (Number)",0,0,0,0,0,0,0,0,0,0,0
+" "," "," ","Injured Cassualties (Number)",0,0,1,0,0,0,0,0,0,0,0
+" "," "," ","All Killed and Injured Casualties (Number)",0,0,1,0,0,0,0,0,0,0,0
+" "," ","10 - 14 years"
+" "," "," ","Killed Casualties (Number)",0,0,0,0,0,0,0,0,0,0,0
+" "," "," ","Injured Cassualties (Number)",0,0,1,0,0,0,0,0,0,1,2
+" "," "," ","All Killed and Injured Casualties (Number)",0,0,1,0,0,0,0,0,0,1,2
+" "," ","15 - 17 years"
+" "," "," ","Killed Casualties (Number)",0,0,0,0,0,0,0,0,0,0,0
+" "," "," ","Injured Cassualties (Number)",6,1,2,2,4,1,1,0,0,0,0
+" "," "," ","All Killed and Injured Casualties (Number)",6,1,2,2,4,1,1,0,0,0,0
+" "," ","18 - 20 years"
+" "," "," ","Killed Casualties (Number)",0,0,0,1,0,0,0,0,0,0,0
+" "," "," ","Injured Cassualties (Number)",1,3,2,0,2,2,2,1,0,2,2
+" "," "," ","All Killed and Injured Casualties (Number)",1,3,2,1,2,2,2,1,0,2,2
+" "," ","21 - 24 years"
+" "," "," ","Killed Casualties (Number)",0,0,0,0,0,0,0,0,0,0,0
+" "," "," ","Injured Cassualties (Number)",5,6,4,3,3,3,4,3,4,0,2
+" "," "," ","All Killed and Injured Casualties (Number)",5,6,4,3,3,3,4,3,4,0,2
+" "," ","25 - 34 years"
+" "," "," ","Killed Casualties (Number)",1,1,0,0,0,1,0,2,0,0,0
+" "," "," ","Injured Cassualties (Number)",13,19,9,14,6,11,10,9,5,6,8
+" "," "," ","All Killed and Injured Casualties (Number)",14,20,9,14,6,12,10,11,5,6,8
+" "," ","35 - 44 years"
+" "," "," ","Killed Casualties (Number)",0,1,0,0,0,0,0,0,0,0,1
+" "," "," ","Injured Cassualties (Number)",8,6,2,6,6,6,6,6,3,3,8
+" "," "," ","All Killed and Injured Casualties (Number)",8,7,2,6,6,6,6,6,3,3,9
+" "," ","45 - 54 years"
+" "," "," ","Killed Casualties (Number)",1,1,0,0,0,0,0,1,1,1,0
+" "," "," ","Injured Cassualties (Number)",4,4,6,6,6,4,3,7,3,10,6
+" "," "," ","All Killed and Injured Casualties (Number)",5,5,6,6,6,4,3,8,4,11,6
+" "," ","55 - 64 years"
+" "," "," ","Killed Casualties (Number)",0,0,0,0,0,0,0,0,1,0,1
+" "," "," ","Injured Cassualties (Number)",2,0,1,2,2,0,5,3,3,2,1
+" "," "," ","All Killed and Injured Casualties (Number)",2,0,1,2,2,0,5,3,4,2,2
+" "," ","65 years and over"
+" "," "," ","Killed Casualties (Number)",0,0,0,0,0,0,1,0,0,0,0
+" "," "," ","Injured Cassualties (Number)",3,2,0,0,0,0,0,0,0,2,2
+" "," "," ","All Killed and Injured Casualties (Number)",3,2,0,0,0,0,1,0,0,2,2
+" "," ","Age unknown"
+" "," "," ","Killed Casualties (Number)",0,0,0,0,0,0,0,0,0,0,0
+" "," "," ","Injured Cassualties (Number)",1,1,0,3,0,0,1,0,0,0,0
+" "," "," ","All Killed and Injured Casualties (Number)",1,1,0,3,0,0,1,0,0,0,0
+" "," ","All ages"
+" "," "," ","Killed Casualties (Number)",2,3,0,1,0,1,1,3,2,1,2
+" "," "," ","Injured Cassualties (Number)",43,43,28,36,29,27,32,29,18,27,31
+" "," "," ","All Killed and Injured Casualties (Number)",45,46,28,37,29,28,33,32,20,28,33
+"Car drivers"
+" ","Male"
+" "," ","0 - 5 years"
+" "," "," ","Killed Casualties (Number)",0,0,0,0,0,0,0,0,0,0,0
+" "," "," ","Injured Cassualties (Number)",1,0,0,0,0,0,0,0,0,0,1
+" "," "," ","All Killed and Injured Casualties (Number)",1,0,0,0,0,0,0,0,0,0,1
+" "," ","6 - 9 years"
+" "," "," ","Killed Casualties (Number)",0,0,0,0,0,0,0,0,0,0,0
+" "," "," ","Injured Cassualties (Number)",0,0,0,0,0,0,0,0,0,1,0
+" "," "," ","All Killed and Injured Casualties (Number)",0,0,0,0,0,0,0,0,0,1,0
+" "," ","10 - 14 years"
+" "," "," ","Killed Casualties (Number)",0,0,0,0,0,0,0,0,0,0,0
+" "," "," ","Injured Cassualties (Number)",1,0,1,1,3,1,0,0,1,1,1
+" "," "," ","All Killed and Injured Casualties (Number)",1,0,1,1,3,1,0,0,1,1,1
+" "," ","15 - 17 years"
+" "," "," ","Killed Casualties (Number)",4,5,3,5,1,2,3,2,0,2,0
+" "," "," ","Injured Cassualties (Number)",50,50,52,63,51,45,33,26,15,23,16
+" "," "," ","All Killed and Injured Casualties (Number)",54,55,55,68,52,47,36,28,15,25,16
+" "," ","18 - 20 years"
+" "," "," ","Killed Casualties (Number)",20,15,11,12,14,6,7,4,4,6,6
+" "," "," ","Injured Cassualties (Number)",274,264,234,243,258,197,145,157,121,117,107
+" "," "," ","All Killed and Injured Casualties (Number)",294,279,245,255,272,203,152,161,125,123,113
+" "," ","21 - 24 years"
+" "," "," ","Killed Casualties (Number)",13,27,12,17,15,10,7,10,10,7,7
+" "," "," ","Injured Cassualties (Number)",285,298,250,226,255,195,179,189,160,160,165
+" "," "," ","All Killed and Injured Casualties (Number)",298,325,262,243,270,205,186,199,170,167,172
+" "," ","25 - 34 years"
+" "," "," ","Killed Casualties (Number)",19,26,24,13,17,19,8,8,16,10,12
+" "," "," ","Injured Cassualties (Number)",518,470,395,477,562,443,379,377,284,327,331
+" "," "," ","All Killed and Injured Casualties (Number)",537,496,419,490,579,462,387,385,300,337,343
+" "," ","35 - 44 years"
+" "," "," ","Killed Casualties (Number)",16,11,12,12,14,6,7,3,6,5,8
+" "," "," ","Injured Cassualties (Number)",304,297,287,315,381,308,291,351,280,317,351
+" "," "," ","All Killed and Injured Casualties (Number)",320,308,299,327,395,314,298,354,286,322,359
+" "," ","45 - 54 years"
+" "," "," ","Killed Casualties (Number)",8,4,4,4,2,2,1,2,4,5,8
+" "," "," ","Injured Cassualties (Number)",205,200,176,194,227,200,191,213,196,200,239
+" "," "," ","All Killed and Injured Casualties (Number)",213,204,180,198,229,202,192,215,200,205,247
+" "," ","55 - 64 years"
+" "," "," ","Killed Casualties (Number)",9,8,4,0,5,3,3,2,5,1,3
+" "," "," ","Injured Cassualties (Number)",149,134,143,149,161,132,101,135,130,129,148
+" "," "," ","All Killed and Injured Casualties (Number)",158,142,147,149,166,135,104,137,135,130,151
+" "," ","65 years and over"
+" "," "," ","Killed Casualties (Number)",15,13,13,12,8,12,6,5,16,10,16
+" "," "," ","Injured Cassualties (Number)",155,134,154,164,168,174,152,177,158,169,192
+" "," "," ","All Killed and Injured Casualties (Number)",170,147,167,176,176,186,158,182,174,179,208
+" "," ","Age unknown"
+" "," "," ","Killed Casualties (Number)",0,0,2,0,0,0,0,0,0,0,0
+" "," "," ","Injured Cassualties (Number)",35,41,20,358,89,7,10,15,8,7,0
+" "," "," ","All Killed and Injured Casualties (Number)",35,41,22,358,89,7,10,15,8,7,0
+" "," ","All ages"
+" "," "," ","Killed Casualties (Number)",104,109,85,75,76,60,42,36,61,46,60
+" "," "," ","Injured Cassualties (Number)",1977,1888,1712,2190,2155,1702,1481,1640,1353,1451,1551
+" "," "," ","All Killed and Injured Casualties (Number)",2081,1997,1797,2265,2231,1762,1523,1676,1414,1497,1611
+" ","Female"
+" "," ","0 - 5 years"
+" "," "," ","Killed Casualties (Number)",0,0,0,0,0,0,0,0,0,0,0
+" "," "," ","Injured Cassualties (Number)",0,0,0,0,0,0,0,0,0,1,0
+" "," "," ","All Killed and Injured Casualties (Number)",0,0,0,0,0,0,0,0,0,1,0
+" "," ","6 - 9 years"
+" "," "," ","Killed Casualties (Number)",0,0,0,0,0,0,0,0,0,0,0
+" "," "," ","Injured Cassualties (Number)",0,0,0,0,0,0,0,0,0,0,0
+" "," "," ","All Killed and Injured Casualties (Number)",0,0,0,0,0,0,0,0,0,0,0
+" "," ","10 - 14 years"
+" "," "," ","Killed Casualties (Number)",0,0,0,0,0,0,0,0,0,0,0
+" "," "," ","Injured Cassualties (Number)",0,1,0,0,1,0,0,0,0,0,0
+" "," "," ","All Killed and Injured Casualties (Number)",0,1,0,0,1,0,0,0,0,0,0
+" "," ","15 - 17 years"
+" "," "," ","Killed Casualties (Number)",0,1,0,0,0,0,0,0,0,0,0
+" "," "," ","Injured Cassualties (Number)",13,19,19,26,18,20,13,16,3,4,6
+" "," "," ","All Killed and Injured Casualties (Number)",13,20,19,26,18,20,13,16,3,4,6
+" "," ","18 - 20 years"
+" "," "," ","Killed Casualties (Number)",4,3,1,5,3,2,4,2,1,0,0
+" "," "," ","Injured Cassualties (Number)",120,134,145,153,161,137,104,97,73,61,47
+" "," "," ","All Killed and Injured Casualties (Number)",124,137,146,158,164,139,108,99,74,61,47
+" "," ","21 - 24 years"
+" "," "," ","Killed Casualties (Number)",6,4,3,5,3,2,2,3,4,2,0
+" "," "," ","Injured Cassualties (Number)",213,202,216,233,228,186,177,148,139,129,139
+" "," "," ","All Killed and Injured Casualties (Number)",219,206,219,238,231,188,179,151,143,131,139
+" "," ","25 - 34 years"
+" "," "," ","Killed Casualties (Number)",10,8,6,7,8,4,3,8,2,2,8
+" "," "," ","Injured Cassualties (Number)",448,460,430,465,538,451,370,384,343,331,381
+" "," "," ","All Killed and Injured Casualties (Number)",458,468,436,472,546,455,373,392,345,333,389
+" "," ","35 - 44 years"
+" "," "," ","Killed Casualties (Number)",2,4,5,3,2,2,4,3,3,3,2
+" "," "," ","Injured Cassualties (Number)",277,334,294,284,374,364,294,335,296,333,378
+" "," "," ","All Killed and Injured Casualties (Number)",279,338,299,287,376,366,298,338,299,336,380
+" "," ","45 - 54 years"
+" "," "," ","Killed Casualties (Number)",5,2,2,4,8,4,2,4,2,6,1
+" "," "," ","Injured Cassualties (Number)",219,240,196,213,259,224,183,240,214,207,261
+" "," "," ","All Killed and Injured Casualties (Number)",224,242,198,217,267,228,185,244,216,213,262
+" "," ","55 - 64 years"
+" "," "," ","Killed Casualties (Number)",6,2,4,3,3,2,1,1,0,2,3
+" "," "," ","Injured Cassualties (Number)",127,121,126,105,145,138,119,165,115,134,156
+" "," "," ","All Killed and Injured Casualties (Number)",133,123,130,108,148,140,120,166,115,136,159
+" "," ","65 years and over"
+" "," "," ","Killed Casualties (Number)",5,12,4,7,4,3,7,7,6,5,2
+" "," "," ","Injured Cassualties (Number)",101,94,85,93,128,112,101,117,110,117,116
+" "," "," ","All Killed and Injured Casualties (Number)",106,106,89,100,132,115,108,124,116,122,118
+" "," ","Age unknown"
+" "," "," ","Killed Casualties (Number)",0,0,0,0,0,0,0,0,0,0,0
+" "," "," ","Injured Cassualties (Number)",31,35,20,293,57,7,4,6,2,4,0
+" "," "," ","All Killed and Injured Casualties (Number)",31,35,20,293,57,7,4,6,2,4,0
+" "," ","All ages"
+" "," "," ","Killed Casualties (Number)",38,36,25,34,31,19,23,28,18,20,16
+" "," "," ","Injured Cassualties (Number)",1549,1640,1531,1865,1909,1639,1365,1508,1295,1321,1484
+" "," "," ","All Killed and Injured Casualties (Number)",1587,1676,1556,1899,1940,1658,1388,1536,1313,1341,1500
+"Car passengers"
+" ","Male"
+" "," ","0 - 5 years"
+" "," "," ","Killed Casualties (Number)",0,4,2,0,2,0,1,0,1,3,1
+" "," "," ","Injured Cassualties (Number)",52,51,69,97,85,68,54,83,53,70,62
+" "," "," ","All Killed and Injured Casualties (Number)",52,55,71,97,87,68,55,83,54,73,63
+" "," ","6 - 9 years"
+" "," "," ","Killed Casualties (Number)",0,1,0,1,0,2,0,0,0,0,0
+" "," "," ","Injured Cassualties (Number)",37,33,38,69,71,46,40,54,39,59,35
+" "," "," ","All Killed and Injured Casualties (Number)",37,34,38,70,71,48,40,54,39,59,35
+" "," ","10 - 14 years"
+" "," "," ","Killed Casualties (Number)",1,1,0,2,0,0,0,0,0,0,2
+" "," "," ","Injured Cassualties (Number)",52,45,56,75,75,69,54,62,60,75,54
+" "," "," ","All Killed and Injured Casualties (Number)",53,46,56,77,75,69,54,62,60,75,56
+" "," ","15 - 17 years"
+" "," "," ","Killed Casualties (Number)",3,4,6,6,6,2,1,4,0,2,0
+" "," "," ","Injured Cassualties (Number)",86,96,92,123,116,90,79,94,89,72,60
+" "," "," ","All Killed and Injured Casualties (Number)",89,100,98,129,122,92,80,98,89,74,60
+" "," ","18 - 20 years"
+" "," "," ","Killed Casualties (Number)",12,7,5,3,4,8,4,2,6,2,6
+" "," "," ","Injured Cassualties (Number)",203,154,145,179,234,179,143,155,120,104,100
+" "," "," ","All Killed and Injured Casualties (Number)",215,161,150,182,238,187,147,157,126,106,106
+" "," ","21 - 24 years"
+" "," "," ","Killed Casualties (Number)",12,7,8,6,8,9,1,7,3,4,3
+" "," "," ","Injured Cassualties (Number)",152,131,121,162,196,140,141,172,131,122,105
+" "," "," ","All Killed and Injured Casualties (Number)",164,138,129,168,204,149,142,179,134,126,108
+" "," ","25 - 34 years"
+" "," "," ","Killed Casualties (Number)",8,18,7,5,5,8,6,1,2,4,0
+" "," "," ","Injured Cassualties (Number)",113,144,130,196,252,200,188,199,166,178,145
+" "," "," ","All Killed and Injured Casualties (Number)",121,162,137,201,257,208,194,200,168,182,145
+" "," ","35 - 44 years"
+" "," "," ","Killed Casualties (Number)",3,2,2,0,2,2,1,0,2,2,4
+" "," "," ","Injured Cassualties (Number)",59,46,52,89,91,90,71,89,70,85,73
+" "," "," ","All Killed and Injured Casualties (Number)",62,48,54,89,93,92,72,89,72,87,77
+" "," ","45 - 54 years"
+" "," "," ","Killed Casualties (Number)",1,3,0,1,2,2,0,1,0,1,0
+" "," "," ","Injured Cassualties (Number)",37,26,29,41,61,55,36,41,41,29,39
+" "," "," ","All Killed and Injured Casualties (Number)",38,29,29,42,63,57,36,42,41,30,39
+" "," ","55 - 64 years"
+" "," "," ","Killed Casualties (Number)",0,0,1,1,1,0,0,0,0,1,0
+" "," "," ","Injured Cassualties (Number)",25,18,22,36,35,33,32,28,29,22,28
+" "," "," ","All Killed and Injured Casualties (Number)",25,18,23,37,36,33,32,28,29,23,28
+" "," ","65 years and over"
+" "," "," ","Killed Casualties (Number)",4,0,1,1,0,1,1,2,6,3,1
+" "," "," ","Injured Cassualties (Number)",28,23,27,32,31,29,25,30,36,26,25
+" "," "," ","All Killed and Injured Casualties (Number)",32,23,28,33,31,30,26,32,42,29,26
+" "," ","Age unknown"
+" "," "," ","Killed Casualties (Number)",0,0,1,1,0,0,0,0,0,0,0
+" "," "," ","Injured Cassualties (Number)",22,19,15,31,18,12,12,7,7,0,0
+" "," "," ","All Killed and Injured Casualties (Number)",22,19,16,32,18,12,12,7,7,0,0
+" "," ","All ages"
+" "," "," ","Killed Casualties (Number)",44,47,33,27,30,34,15,17,20,22,17
+" "," "," ","Injured Cassualties (Number)",866,786,796,1130,1265,1011,875,1014,841,842,726
+" "," "," ","All Killed and Injured Casualties (Number)",910,833,829,1157,1295,1045,890,1031,861,864,743
+" ","Female"
+" "," ","0 - 5 years"
+" "," "," ","Killed Casualties (Number)",0,2,5,1,1,0,0,0,1,0,1
+" "," "," ","Injured Cassualties (Number)",53,54,74,92,99,75,69,56,53,57,55
+" "," "," ","All Killed and Injured Casualties (Number)",53,56,79,93,100,75,69,56,54,57,56
+" "," ","6 - 9 years"
+" "," "," ","Killed Casualties (Number)",0,1,1,1,0,0,0,0,0,1,0
+" "," "," ","Injured Cassualties (Number)",37,41,36,55,65,51,49,48,39,48,44
+" "," "," ","All Killed and Injured Casualties (Number)",37,42,37,56,65,51,49,48,39,49,44
+" "," ","10 - 14 years"
+" "," "," ","Killed Casualties (Number)",0,0,1,3,0,0,1,0,0,2,0
+" "," "," ","Injured Cassualties (Number)",46,55,66,75,93,71,52,67,61,65,41
+" "," "," ","All Killed and Injured Casualties (Number)",46,55,67,78,93,71,53,67,61,67,41
+" "," ","15 - 17 years"
+" "," "," ","Killed Casualties (Number)",4,2,2,3,0,3,2,0,1,0,1
+" "," "," ","Injured Cassualties (Number)",87,119,110,123,103,83,67,96,71,93,76
+" "," "," ","All Killed and Injured Casualties (Number)",91,121,112,126,103,86,69,96,72,93,77
+" "," ","18 - 20 years"
+" "," "," ","Killed Casualties (Number)",3,8,4,1,5,2,1,0,0,1,4
+" "," "," ","Injured Cassualties (Number)",164,157,171,171,168,153,128,117,102,119,98
+" "," "," ","All Killed and Injured Casualties (Number)",167,165,175,172,173,155,129,117,102,120,102
+" "," ","21 - 24 years"
+" "," "," ","Killed Casualties (Number)",5,4,3,3,0,2,0,1,2,0,0
+" "," "," ","Injured Cassualties (Number)",106,102,91,157,171,117,126,95,94,88,107
+" "," "," ","All Killed and Injured Casualties (Number)",111,106,94,160,171,119,126,96,96,88,107
+" "," ","25 - 34 years"
+" "," "," ","Killed Casualties (Number)",4,3,2,2,1,2,3,2,1,0,2
+" "," "," ","Injured Cassualties (Number)",149,137,158,212,206,215,175,192,137,176,147
+" "," "," ","All Killed and Injured Casualties (Number)",153,140,160,214,207,217,178,194,138,176,149
+" "," ","35 - 44 years"
+" "," "," ","Killed Casualties (Number)",4,2,2,1,0,2,0,0,0,3,2
+" "," "," ","Injured Cassualties (Number)",84,67,89,113,149,94,72,120,84,148,98
+" "," "," ","All Killed and Injured Casualties (Number)",88,69,91,114,149,96,72,120,84,151,100
+" "," ","45 - 54 years"
+" "," "," ","Killed Casualties (Number)",3,2,0,0,0,0,0,0,1,0,0
+" "," "," ","Injured Cassualties (Number)",65,73,72,102,115,103,75,80,80,97,74
+" "," "," ","All Killed and Injured Casualties (Number)",68,75,72,102,115,103,75,80,81,97,74
+" "," ","55 - 64 years"
+" "," "," ","Killed Casualties (Number)",0,3,4,0,1,0,3,0,0,3,0
+" "," "," ","Injured Cassualties (Number)",57,75,85,95,89,93,57,62,68,68,60
+" "," "," ","All Killed and Injured Casualties (Number)",57,78,89,95,90,93,60,62,68,71,60
+" "," ","65 years and over"
+" "," "," ","Killed Casualties (Number)",8,4,4,6,1,1,5,5,2,3,7
+" "," "," ","Injured Cassualties (Number)",73,88,94,107,103,96,78,88,75,97,103
+" "," "," ","All Killed and Injured Casualties (Number)",81,92,98,113,104,97,83,93,77,100,110
+" "," ","Age unknown"
+" "," "," ","Killed Casualties (Number)",1,0,0,0,0,0,0,0,0,0,0
+" "," "," ","Injured Cassualties (Number)",32,38,20,19,10,11,10,11,6,1,0
+" "," "," ","All Killed and Injured Casualties (Number)",33,38,20,19,10,11,10,11,6,1,0
+" "," ","All ages"
+" "," "," ","Killed Casualties (Number)",32,31,28,21,9,12,15,8,8,13,17
+" "," "," ","Injured Cassualties (Number)",953,1006,1066,1321,1371,1162,958,1032,870,1057,903
+" "," "," ","All Killed and Injured Casualties (Number)",985,1037,1094,1342,1380,1174,973,1040,878,1070,920
+"All Car users"
+" ","Male"
+" "," ","0 - 5 years"
+" "," "," ","Killed Casualties (Number)",0,4,2,0,2,0,1,0,1,3,1
+" "," "," ","Injured Cassualties (Number)",53,51,69,97,85,68,54,83,53,70,63
+" "," "," ","All Killed and Injured Casualties (Number)",53,55,71,97,87,68,55,83,54,73,64
+" "," ","6 - 9 years"
+" "," "," ","Killed Casualties (Number)",0,1,0,1,0,2,0,0,0,0,0
+" "," "," ","Injured Cassualties (Number)",37,33,38,69,71,46,40,54,39,60,35
+" "," "," ","All Killed and Injured Casualties (Number)",37,34,38,70,71,48,40,54,39,60,35
+" "," ","10 - 14 years"
+" "," "," ","Killed Casualties (Number)",1,1,0,2,0,0,0,0,0,0,2
+" "," "," ","Injured Cassualties (Number)",53,45,57,76,78,70,54,62,61,76,55
+" "," "," ","All Killed and Injured Casualties (Number)",54,46,57,78,78,70,54,62,61,76,57
+" "," ","15 - 17 years"
+" "," "," ","Killed Casualties (Number)",7,9,9,11,7,4,4,6,0,4,0
+" "," "," ","Injured Cassualties (Number)",136,146,144,186,167,135,112,120,104,95,76
+" "," "," ","All Killed and Injured Casualties (Number)",143,155,153,197,174,139,116,126,104,99,76
+" "," ","18 - 20 years"
+" "," "," ","Killed Casualties (Number)",32,22,16,15,18,14,11,6,10,8,12
+" "," "," ","Injured Cassualties (Number)",477,418,379,422,492,376,288,312,241,221,207
+" "," "," ","All Killed and Injured Casualties (Number)",509,440,395,437,510,390,299,318,251,229,219
+" "," ","21 - 24 years"
+" "," "," ","Killed Casualties (Number)",25,34,20,23,23,19,8,17,13,11,10
+" "," "," ","Injured Cassualties (Number)",437,429,371,388,451,335,320,361,291,282,270
+" "," "," ","All Killed and Injured Casualties (Number)",462,463,391,411,474,354,328,378,304,293,280
+" "," ","25 - 34 years"
+" "," "," ","Killed Casualties (Number)",27,44,31,18,22,27,14,9,18,14,12
+" "," "," ","Injured Cassualties (Number)",631,614,525,673,814,643,567,576,450,505,476
+" "," "," ","All Killed and Injured Casualties (Number)",658,658,556,691,836,670,581,585,468,519,488
+" "," ","35 - 44 years"
+" "," "," ","Killed Casualties (Number)",19,13,14,12,16,8,8,3,8,7,12
+" "," "," ","Injured Cassualties (Number)",363,343,339,404,472,398,362,440,350,402,424
+" "," "," ","All Killed and Injured Casualties (Number)",382,356,353,416,488,406,370,443,358,409,436
+" "," ","45 - 54 years"
+" "," "," ","Killed Casualties (Number)",9,7,4,5,4,4,1,3,4,6,8
+" "," "," ","Injured Cassualties (Number)",242,226,205,235,288,255,227,254,237,229,278
+" "," "," ","All Killed and Injured Casualties (Number)",251,233,209,240,292,259,228,257,241,235,286
+" "," ","55 - 64 years"
+" "," "," ","Killed Casualties (Number)",9,8,5,1,6,3,3,2,5,2,3
+" "," "," ","Injured Cassualties (Number)",174,152,165,185,196,165,133,163,159,151,176
+" "," "," ","All Killed and Injured Casualties (Number)",183,160,170,186,202,168,136,165,164,153,179
+" "," ","65 years and over"
+" "," "," ","Killed Casualties (Number)",19,13,14,13,8,13,7,7,22,13,17
+" "," "," ","Injured Cassualties (Number)",183,157,181,196,199,203,177,207,194,195,217
+" "," "," ","All Killed and Injured Casualties (Number)",202,170,195,209,207,216,184,214,216,208,234
+" "," ","Age unknown"
+" "," "," ","Killed Casualties (Number)",0,0,3,1,0,0,0,0,0,0,0
+" "," "," ","Injured Cassualties (Number)",57,60,35,389,107,19,22,22,15,7,0
+" "," "," ","All Killed and Injured Casualties (Number)",57,60,38,390,107,19,22,22,15,7,0
+" "," ","All ages"
+" "," "," ","Killed Casualties (Number)",148,156,118,102,106,94,57,53,81,68,77
+" "," "," ","Injured Cassualties (Number)",2843,2674,2508,3320,3420,2713,2356,2654,2194,2293,2277
+" "," "," ","All Killed and Injured Casualties (Number)",2991,2830,2626,3422,3526,2807,2413,2707,2275,2361,2354
+" ","Female"
+" "," ","0 - 5 years"
+" "," "," ","Killed Casualties (Number)",0,2,5,1,1,0,0,0,1,0,1
+" "," "," ","Injured Cassualties (Number)",53,54,74,92,99,75,69,56,53,58,55
+" "," "," ","All Killed and Injured Casualties (Number)",53,56,79,93,100,75,69,56,54,58,56
+" "," ","6 - 9 years"
+" "," "," ","Killed Casualties (Number)",0,1,1,1,0,0,0,0,0,1,0
+" "," "," ","Injured Cassualties (Number)",37,41,36,55,65,51,49,48,39,48,44
+" "," "," ","All Killed and Injured Casualties (Number)",37,42,37,56,65,51,49,48,39,49,44
+" "," ","10 - 14 years"
+" "," "," ","Killed Casualties (Number)",0,0,1,3,0,0,1,0,0,2,0
+" "," "," ","Injured Cassualties (Number)",46,56,66,75,94,71,52,67,61,65,41
+" "," "," ","All Killed and Injured Casualties (Number)",46,56,67,78,94,71,53,67,61,67,41
+" "," ","15 - 17 years"
+" "," "," ","Killed Casualties (Number)",4,3,2,3,0,3,2,0,1,0,1
+" "," "," ","Injured Cassualties (Number)",100,138,129,149,121,103,80,112,74,97,82
+" "," "," ","All Killed and Injured Casualties (Number)",104,141,131,152,121,106,82,112,75,97,83
+" "," ","18 - 20 years"
+" "," "," ","Killed Casualties (Number)",7,11,5,6,8,4,5,2,1,1,4
+" "," "," ","Injured Cassualties (Number)",284,291,316,324,329,290,232,214,175,180,145
+" "," "," ","All Killed and Injured Casualties (Number)",291,302,321,330,337,294,237,216,176,181,149
+" "," ","21 - 24 years"
+" "," "," ","Killed Casualties (Number)",11,8,6,8,3,4,2,4,6,2,0
+" "," "," ","Injured Cassualties (Number)",319,304,307,390,399,303,303,243,233,217,246
+" "," "," ","All Killed and Injured Casualties (Number)",330,312,313,398,402,307,305,247,239,219,246
+" "," ","25 - 34 years"
+" "," "," ","Killed Casualties (Number)",14,11,8,9,9,6,6,10,3,2,10
+" "," "," ","Injured Cassualties (Number)",597,597,588,677,744,666,545,576,480,507,528
+" "," "," ","All Killed and Injured Casualties (Number)",611,608,596,686,753,672,551,586,483,509,538
+" "," ","35 - 44 years"
+" "," "," ","Killed Casualties (Number)",6,6,7,4,2,4,4,3,3,6,4
+" "," "," ","Injured Cassualties (Number)",361,401,383,397,523,458,366,455,380,481,476
+" "," "," ","All Killed and Injured Casualties (Number)",367,407,390,401,525,462,370,458,383,487,480
+" "," ","45 - 54 years"
+" "," "," ","Killed Casualties (Number)",8,4,2,4,8,4,2,4,3,6,1
+" "," "," ","Injured Cassualties (Number)",284,313,268,315,374,327,258,320,294,304,335
+" "," "," ","All Killed and Injured Casualties (Number)",292,317,270,319,382,331,260,324,297,310,336
+" "," ","55 - 64 years"
+" "," "," ","Killed Casualties (Number)",6,5,8,3,4,2,4,1,0,5,3
+" "," "," ","Injured Cassualties (Number)",184,196,211,200,234,231,176,227,183,202,216
+" "," "," ","All Killed and Injured Casualties (Number)",190,201,219,203,238,233,180,228,183,207,219
+" "," ","65 years and over"
+" "," "," ","Killed Casualties (Number)",13,16,8,13,5,4,12,12,8,8,9
+" "," "," ","Injured Cassualties (Number)",174,182,179,200,231,208,179,205,185,214,219
+" "," "," ","All Killed and Injured Casualties (Number)",187,198,187,213,236,212,191,217,193,222,228
+" "," ","Age unknown"
+" "," "," ","Killed Casualties (Number)",1,0,0,0,0,0,0,0,0,0,0
+" "," "," ","Injured Cassualties (Number)",63,73,40,312,67,18,14,17,8,5,0
+" "," "," ","All Killed and Injured Casualties (Number)",64,73,40,312,67,18,14,17,8,5,0
+" "," ","All ages"
+" "," "," ","Killed Casualties (Number)",70,67,53,55,40,31,38,36,26,33,33
+" "," "," ","Injured Cassualties (Number)",2502,2646,2597,3186,3280,2801,2323,2540,2165,2378,2387
+" "," "," ","All Killed and Injured Casualties (Number)",2572,2713,2650,3241,3320,2832,2361,2576,2191,2411,2420
+"Other road users"
+" ","Male"
+" "," ","0 - 5 years"
+" "," "," ","Killed Casualties (Number)",0,0,0,2,0,0,0,0,0,0,0
+" "," "," ","Injured Cassualties (Number)",4,6,2,3,2,7,2,2,5,3,3
+" "," "," ","All Killed and Injured Casualties (Number)",4,6,2,5,2,7,2,2,5,3,3
+" "," ","6 - 9 years"
+" "," "," ","Killed Casualties (Number)",0,0,0,0,0,0,0,0,0,1,0
+" "," "," ","Injured Cassualties (Number)",9,1,7,2,3,4,8,2,2,3,2
+" "," "," ","All Killed and Injured Casualties (Number)",9,1,7,2,3,4,8,2,2,4,5
+" "," ","10 - 14 years"
+" "," "," ","Killed Casualties (Number)",0,0,0,0,0,0,0,0,1,0,1
+" "," "," ","Injured Cassualties (Number)",20,10,7,8,11,5,17,8,6,11,9
+" "," "," ","All Killed and Injured Casualties (Number)",20,10,7,8,11,5,17,8,7,11,14
+" "," ","15 - 17 years"
+" "," "," ","Killed Casualties (Number)",3,2,1,1,0,0,2,0,1,1,1
+" "," "," ","Injured Cassualties (Number)",24,24,23,15,18,31,27,13,7,7,9
+" "," "," ","All Killed and Injured Casualties (Number)",27,26,24,16,18,31,29,13,8,8,18
+" "," ","18 - 20 years"
+" "," "," ","Killed Casualties (Number)",5,2,4,2,2,1,1,2,0,1,0
+" "," "," ","Injured Cassualties (Number)",45,56,47,57,44,47,48,35,23,27,12
+" "," "," ","All Killed and Injured Casualties (Number)",50,58,51,59,46,48,49,37,23,28,23
+" "," ","21 - 24 years"
+" "," "," ","Killed Casualties (Number)",3,4,4,2,1,1,2,1,4,1,0
+" "," "," ","Injured Cassualties (Number)",95,81,68,52,61,52,46,48,38,28,32
+" "," "," ","All Killed and Injured Casualties (Number)",98,85,72,54,62,53,48,49,42,29,25
+" "," ","25 - 34 years"
+" "," "," ","Killed Casualties (Number)",6,3,5,4,6,5,5,3,1,2,3
+" "," "," ","Injured Cassualties (Number)",216,203,163,168,123,148,137,105,113,124,115
+" "," "," ","All Killed and Injured Casualties (Number)",222,206,168,172,129,153,142,108,114,126,102
+" "," ","35 - 44 years"
+" "," "," ","Killed Casualties (Number)",4,4,7,7,4,3,1,4,3,1,2
+" "," "," ","Injured Cassualties (Number)",130,143,121,103,140,123,93,86,83,113,134
+" "," "," ","All Killed and Injured Casualties (Number)",134,147,128,110,144,126,94,90,86,114,99
+" "," ","45 - 54 years"
+" "," "," ","Killed Casualties (Number)",2,3,8,1,2,1,1,2,1,1,0
+" "," "," ","Injured Cassualties (Number)",103,102,96,77,70,71,58,79,74,83,94
+" "," "," ","All Killed and Injured Casualties (Number)",105,105,104,78,72,72,59,81,75,84,88
+" "," ","55 - 64 years"
+" "," "," ","Killed Casualties (Number)",3,3,5,2,2,4,1,2,4,2,0
+" "," "," ","Injured Cassualties (Number)",52,60,53,53,41,46,42,43,40,41,51
+" "," "," ","All Killed and Injured Casualties (Number)",55,63,58,55,43,50,43,45,44,43,61
+" "," ","65 years and over"
+" "," "," ","Killed Casualties (Number)",1,4,3,6,1,0,1,1,0,1,1
+" "," "," ","Injured Cassualties (Number)",22,30,16,21,27,17,25,21,17,28,40
+" "," "," ","All Killed and Injured Casualties (Number)",23,34,19,27,28,17,26,22,17,29,33
+" "," ","Age unknown"
+" "," "," ","Killed Casualties (Number)",0,0,0,0,0,0,0,0,0,0,0
+" "," "," ","Injured Cassualties (Number)",25,17,10,75,22,3,8,2,3,1,0
+" "," "," ","All Killed and Injured Casualties (Number)",25,17,10,75,22,3,8,2,3,1,3
+" "," ","All ages"
+" "," "," ","Killed Casualties (Number)",27,25,37,27,18,15,14,15,15,11,8
+" "," "," ","Injured Cassualties (Number)",745,733,613,634,562,554,511,444,411,469,501
+" "," "," ","All Killed and Injured Casualties (Number)",772,758,650,661,580,569,525,459,426,480,474
+" ","Female"
+" "," ","0 - 5 years"
+" "," "," ","Killed Casualties (Number)",0,0,0,0,0,0,0,0,1,0,0
+" "," "," ","Injured Cassualties (Number)",1,2,0,2,1,2,0,2,4,3,2
+" "," "," ","All Killed and Injured Casualties (Number)",1,2,0,2,1,2,0,2,5,3,2
+" "," ","6 - 9 years"
+" "," "," ","Killed Casualties (Number)",0,0,0,0,0,0,0,0,1,0,0
+" "," "," ","Injured Cassualties (Number)",3,7,2,3,5,1,0,0,3,3,1
+" "," "," ","All Killed and Injured Casualties (Number)",3,7,2,3,5,1,0,0,4,3,1
+" "," ","10 - 14 years"
+" "," "," ","Killed Casualties (Number)",0,1,0,0,0,0,0,0,0,0,0
+" "," "," ","Injured Cassualties (Number)",6,9,3,1,4,3,1,1,1,5,4
+" "," "," ","All Killed and Injured Casualties (Number)",6,10,3,1,4,3,1,1,1,5,4
+" "," ","15 - 17 years"
+" "," "," ","Killed Casualties (Number)",2,0,0,0,0,0,1,0,0,0,0
+" "," "," ","Injured Cassualties (Number)",11,11,6,9,1,7,3,5,2,2,4
+" "," "," ","All Killed and Injured Casualties (Number)",13,11,6,9,1,7,4,5,2,2,4
+" "," ","18 - 20 years"
+" "," "," ","Killed Casualties (Number)",2,0,0,0,0,0,1,0,0,0,0
+" "," "," ","Injured Cassualties (Number)",10,12,8,10,10,13,9,16,9,6,4
+" "," "," ","All Killed and Injured Casualties (Number)",12,12,8,10,10,13,10,16,9,6,4
+" "," ","21 - 24 years"
+" "," "," ","Killed Casualties (Number)",0,0,0,0,0,0,1,1,0,0,1
+" "," "," ","Injured Cassualties (Number)",14,14,11,15,16,16,16,9,10,12,3
+" "," "," ","All Killed and Injured Casualties (Number)",14,14,11,15,16,16,17,10,10,12,4
+" "," ","25 - 34 years"
+" "," "," ","Killed Casualties (Number)",2,1,0,0,0,0,0,0,1,0,0
+" "," "," ","Injured Cassualties (Number)",36,27,29,29,20,27,32,24,21,23,15
+" "," "," ","All Killed and Injured Casualties (Number)",38,28,29,29,20,27,32,24,22,23,15
+" "," ","35 - 44 years"
+" "," "," ","Killed Casualties (Number)",0,0,0,0,1,0,0,0,0,0,0
+" "," "," ","Injured Cassualties (Number)",20,21,15,13,16,21,20,14,18,12,28
+" "," "," ","All Killed and Injured Casualties (Number)",20,21,15,13,17,21,20,14,18,12,28
+" "," ","45 - 54 years"
+" "," "," ","Killed Casualties (Number)",1,0,0,0,0,1,0,0,1,0,0
+" "," "," ","Injured Cassualties (Number)",14,14,15,19,20,16,13,12,11,15,8
+" "," "," ","All Killed and Injured Casualties (Number)",15,14,15,19,20,17,13,12,12,15,8
+" "," ","55 - 64 years"
+" "," "," ","Killed Casualties (Number)",0,0,0,0,1,0,0,0,0,0,0
+" "," "," ","Injured Cassualties (Number)",8,10,10,9,13,10,8,6,11,12,9
+" "," "," ","All Killed and Injured Casualties (Number)",8,10,10,9,14,10,8,6,11,12,9
+" "," ","65 years and over"
+" "," "," ","Killed Casualties (Number)",0,1,0,0,0,0,0,1,0,0,0
+" "," "," ","Injured Cassualties (Number)",10,15,9,7,8,6,7,10,5,11,8
+" "," "," ","All Killed and Injured Casualties (Number)",10,16,9,7,8,6,7,11,5,11,8
+" "," ","Age unknown"
+" "," "," ","Killed Casualties (Number)",0,0,0,0,0,0,0,0,0,0,0
+" "," "," ","Injured Cassualties (Number)",12,11,3,8,1,2,0,0,0,2,0
+" "," "," ","All Killed and Injured Casualties (Number)",12,11,3,8,1,2,0,0,0,2,0
+" "," ","All ages"
+" "," "," ","Killed Casualties (Number)",7,3,0,0,2,1,3,2,4,0,1
+" "," "," ","Injured Cassualties (Number)",145,153,111,125,115,124,109,99,95,106,86
+" "," "," ","All Killed and Injured Casualties (Number)",152,156,111,125,117,125,112,101,99,106,87
+
+"Collisions omitted where sex of casualty is not specified "
+
